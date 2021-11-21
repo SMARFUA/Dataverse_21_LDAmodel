@@ -16,6 +16,7 @@ reddit chat rooms about stocks and cryptocrurrency can be used to correlate and 
 
 The original/uncleaned dataset is obtained from 2017-11.csv file in https://www.kaggle.com/nickreinerink/reddit-rcryptocurrency?ref=hackernoon.com
 The notebook uses a cleaned/preprocessed dataset that we saved in https://www.kaggle.com/samkamarfua/dataverse-21-samka in order to save the run time.
+The old_text in the above dataset is orginal text/comment and the clean_text is the preprocessed text.
 
 # How to run it
 
